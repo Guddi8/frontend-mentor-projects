@@ -46,9 +46,8 @@ svg {
 
 body {
   background-color: var(--clr-neutral-300);
-  min-height: 100vh;
   display: grid;
-  grid-template-rows: 1fr auto;
+  grid-template-rows: 100vh auto;
   align-items: center;
   font-family: var(--font-family-default);
   font-size: var(--fs-400);
